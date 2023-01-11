@@ -1,3 +1,3 @@
 # Simple Web Calculator
 
-Kalulator sederhanan dan input dapat dilakukan menggunakan keyboard.
+Kalulator sederhana dan input dapat dilakukan menggunakan keyboard.
